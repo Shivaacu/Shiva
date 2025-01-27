@@ -9,6 +9,7 @@ import sys
 requests.packages.urllib3.disable_warnings()
 
 # Just some colors and shit
+
 white = '\x1b[1;97m'
 green = '\x1b[1;32m'
 red = '\x1b[1;31m'
